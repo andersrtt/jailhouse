@@ -211,7 +211,7 @@ struct {
 				0x00000000, 0x00000000, 0x00000000,
 			},
 			.shmem_region = 16,
-			.shmem_protocol = JAILHOUSE_SHMEM_PROTO_VETH,
+			.shmem_protocol = JAILHOUSE_SHMEM_PROTO_UNDEFINED,
 		},
 	},
 };
